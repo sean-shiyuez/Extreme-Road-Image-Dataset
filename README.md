@@ -11,7 +11,7 @@ The dataset includes the following road surface categories:
 2. **Rough Ice Surface**
 3. **Loose Snow Surface**
 4. **Muddy Road After Snow**
-5. **Waterlogged Pavement**
+5. **Waterlogged Pavement(Partly from online videos)**
 6. **Semi-impregnated Asphalt Pavement**
 
 Each folder contains high-resolution images of road surfaces, which can be directly used for training machine learning models or conducting image-based analysis.
