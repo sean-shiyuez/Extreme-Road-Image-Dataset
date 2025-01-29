@@ -31,7 +31,7 @@ The dataset is provided under an open license for research purposes. Users are r
 The complete dataset can be downloaded from this repository. Clone the repository using:
 
 ```bash
-git clone https://github.com/YourRepositoryLink
+git clone https://github.com/sean-shiyuez/Extreme-Road-Image-Dataset
 ```
 
 ## Citation
